@@ -97,7 +97,7 @@ public class Swapper{
     int row1, col1, row2, col2;
     Swapper mom = new Swapper();
     String[][] arr = mom.createArr(8,6);
-    System.out.println("Answer all following questions with the numbers available");
+    System.out.println("Answer all following questions with numbers available");
     System.out.println("\nWhat is the row of the first number you want to swap?");
     row1 = Keyboard.readInt();
     System.out.println("What is the column of the first number you want to swap?");
